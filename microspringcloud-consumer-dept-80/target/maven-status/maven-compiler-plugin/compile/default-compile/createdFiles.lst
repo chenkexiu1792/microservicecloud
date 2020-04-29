@@ -1,0 +1,5 @@
+com\atguigu\springcloud\controller\DeptController_Consumer.class
+com\atguigu\myrule\MySelfRule.class
+com\atguigu\myrule\RandomRule_CP.class
+com\atguigu\springcloud\cfgbeans\ConfigBean.class
+com\atguigu\springcloud\DeptConsumer80_App.class
